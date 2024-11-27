@@ -1,0 +1,3 @@
+CarRegNo, CusID, RentalDate, ReturnDate, RentalDays, TotalRent, PaymentStatus
+LV3690C, C00001, 18 April 2024, 19 April 2024, 2, 400, Paid
+KV1234A, C00002, 20 April 2024, 21 April 2024, 2, 200, not paid

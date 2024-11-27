@@ -1,0 +1,4 @@
+CustomerID	CustomerName	CustomerNRIC	CustomerPassportNo	CustomerCardDrivingLicenseNo	CustomerAddress	CustomerPhoneNumber	CustomerRegistrationDate	CustomerNationality
+C00001	Sakata Gintoki	None	PA8888	DL888	Yorozuya, Kabuki District, Edo	03-12323233	10-10-2023	Foreign
+C00002	Koong Xinyun	050423-10-1234	None	DL345	24, Jalan Anggerik Doritis, Kemuning Utama	012-3456789	13-02-2024	Local
+C00003	piwogj	910248124	None	D123213	wdasdfsa	12413432	31-05-2024	Local

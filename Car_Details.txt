@@ -1,0 +1,6 @@
+CarRegNo, CarModel, PassengerCapacity, Availability, InsuranceExpiryDate, InsurancePolicyNumber, LastServiceDate, RoadTaxExpiryDate
+KV1234A, Bezza, 5, Available, 21-07-2016, Perodua, 17-04-2025, XA123456, 01-02-2024, 04-01-2025
+JV2468B, Ativa, 5, Available, 19-02-2021, Perodua, 16-03-2025, ZA234567, 02-03-2024, 05-01-2025
+LV3690C, Alza, 7, Rented, 23-11-2009, Perodua, 13-04-2025, YA345678, 11-02-2024, 11-01-2025
+PV4826D, Aruz, 7, Available, 15-01-2019, Perodua, 14-03-2025, RA123456, 22-03-2024, 09-01-2025
+RV5015E, Axia, 5, Available, 15-09-2014, Perodua, 15-02-2025, BA234567, 12-02-2024, 08-01-2025
